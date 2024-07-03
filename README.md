@@ -202,18 +202,22 @@ Create React App is a community maintained project and all contributors are volu
 
 ## <a name="authors"> Authors:</a>
 
-*1. SHIVENDRA BAJPAI*
+_1. SHIVENDRA BAJPAI_
+
 - Sec: G
 - Batch: 2 (Second)
 
-*2. SAURABH SINGH*
+_2. SAURABH SINGH_
+
 - Sec: G
 - Batch: 2 (Second)
 
-*3. SHIV KUMAR MISHRA*
+_3. SHIV KUMAR MISHRA_
+
 - Sec: G
 - Batch: 3 (Third)
 
-*4. SHIVAM SINGH RAWAT*
+_4. SHIVAM SINGH RAWAT_
+
 - Sec: G
 - Batch: 3 (Third)
